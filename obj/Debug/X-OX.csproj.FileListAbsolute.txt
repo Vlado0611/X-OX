@@ -1,0 +1,11 @@
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\bin\Debug\X-OX.exe.config
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\bin\Debug\X-OX.exe
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\bin\Debug\X-OX.pdb
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\obj\Debug\X-OX.csprojAssemblyReference.cache
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\obj\Debug\X_OX.Properties.Resources.resources
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\obj\Debug\X-OX.csproj.GenerateResource.cache
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\obj\Debug\X-OX.csproj.CoreCompileInputs.cache
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\obj\Debug\X-OX.exe
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\obj\Debug\X-OX.pdb
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\obj\Debug\X_OX.Form1.resources
+C:\Users\vlaki\Desktop\Files\C#Baze\Baze21\X-OX\obj\Debug\X_OX.Form2.resources
